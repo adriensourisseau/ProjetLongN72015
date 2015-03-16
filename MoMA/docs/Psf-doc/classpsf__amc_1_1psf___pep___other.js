@@ -1,0 +1,28 @@
+var classpsf__amc_1_1psf___pep___other =
+[
+    [ "psf_Pep_Other", "classpsf__amc_1_1psf___pep___other.html#af5097f9949873afda865c79ff03f7a50", null ],
+    [ "psf_Pep_Other", "classpsf__amc_1_1psf___pep___other.html#af99d54892aab26ba077d51c99adda1bd", null ],
+    [ "~psf_Pep_Other", "classpsf__amc_1_1psf___pep___other.html#a44b03b851e767c8b480aa09ec9d54609", null ],
+    [ "check_bonds", "classpsf__amc_1_1psf___pep___other.html#aefd0771aecedbfa9ef0896e16ba13fcf", null ],
+    [ "DoClone", "classpsf__amc_1_1psf___pep___other.html#a0d64694906451cfa875bfaeba6dd8b3a", null ],
+    [ "get_AA_type", "classpsf__amc_1_1psf___pep___other.html#ad4d6e2d55bfa2f6de428f1ca6b3e942b", null ],
+    [ "get_atom", "classpsf__amc_1_1psf___pep___other.html#a0d9cc03b6260471e905841350c83f165", null ],
+    [ "get_AtomList", "classpsf__amc_1_1psf___pep___other.html#af6e82c16b2cd98fff3157bc7351833c3", null ],
+    [ "get_atomlist", "classpsf__amc_1_1psf___pep___other.html#af20c19161a4be5e00a3c08791e2a5f27", null ],
+    [ "get_bkb_atom", "classpsf__amc_1_1psf___pep___other.html#a49f38265c1e3a2dae9470aeb7114240d", null ],
+    [ "get_bkb_nb_atoms", "classpsf__amc_1_1psf___pep___other.html#a89349c34755a407d0304abbfbce1c89a", null ],
+    [ "get_bkbAtomList", "classpsf__amc_1_1psf___pep___other.html#a7dce886b81463452b6370e804cf8d769", null ],
+    [ "get_connector", "classpsf__amc_1_1psf___pep___other.html#a5def6fa45ba063dde6fdb8821abd4843", null ],
+    [ "get_first_atom", "classpsf__amc_1_1psf___pep___other.html#a78aa4a3a5e1701e92732360f41030525", null ],
+    [ "get_flagCterm", "classpsf__amc_1_1psf___pep___other.html#ab7f946471329a155bd096e3acf12c945", null ],
+    [ "get_nb_atoms", "classpsf__amc_1_1psf___pep___other.html#a524b1e3c4233e9ba1cfef130ab1f6221", null ],
+    [ "get_sch_atom", "classpsf__amc_1_1psf___pep___other.html#a926955b040c57264df665314c380f802", null ],
+    [ "get_sch_nb_atoms", "classpsf__amc_1_1psf___pep___other.html#a5599412fb822671e1a47ea25a18b0c11", null ],
+    [ "get_schAtomList", "classpsf__amc_1_1psf___pep___other.html#a6b0f1f9945716bb7a91b3b07c3e12a5a", null ],
+    [ "getFirstAtoms", "classpsf__amc_1_1psf___pep___other.html#a679cd945407222e7138e00bac463ef36", null ],
+    [ "text_display", "classpsf__amc_1_1psf___pep___other.html#a8d14d9bdf67ba03de272ad3d473b5228", null ],
+    [ "writePDBdata", "classpsf__amc_1_1psf___pep___other.html#ac10c168b7a31349967487da91ec5bf8b", null ],
+    [ "writeXYZdata", "classpsf__amc_1_1psf___pep___other.html#a7e0e142095ffabdf5024b7407f504ae1", null ],
+    [ "AtomList", "classpsf__amc_1_1psf___pep___other.html#a5a64a65f0e1ff7ef2fea15f8cb5f1fdd", null ],
+    [ "fake_vector", "classpsf__amc_1_1psf___pep___other.html#af455b165898884cc50e5c27c3824cb82", null ]
+];

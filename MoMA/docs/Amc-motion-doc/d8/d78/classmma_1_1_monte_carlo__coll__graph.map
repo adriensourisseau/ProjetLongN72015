@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d5/d22/classmma_1_1_planner.html" title="A parent abstract class for all planners." alt="" coords="60,105,167,135"/>
+<area shape="rect" id="node4" href="$d6/d17/classmma_1_1_timer.html" title="A timer that measures running time." alt="" coords="5,6,101,37"/>
+<area shape="rect" id="node6" href="$d3/d60/classmma_1_1_graph.html" title="An abstract basic graph class." alt="" coords="125,6,221,37"/>
+<area shape="rect" id="node8" href="$d5/ddc/classmma_1_1_energy_computer.html" title="An abstract class for computing the energy of a molecular system." alt="" coords="191,105,348,135"/>
+<area shape="rect" id="node10" href="$d8/dce/classmma_1_1_perturber.html" title="A parent abstract class for all kinds of Perturbers, i.e." alt="" coords="372,105,484,135"/>
+</map>

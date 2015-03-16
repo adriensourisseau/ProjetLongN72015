@@ -1,0 +1,28 @@
+var classpsf__amc_1_1psf___pep___other =
+[
+    [ "psf_Pep_Other", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a7bff8f5ae279320e56d7f76e0478935c", null ],
+    [ "psf_Pep_Other", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a6609ef8e943c5e000e44f7e6c6bb8183", null ],
+    [ "~psf_Pep_Other", "d2/df3/classpsf__amc_1_1psf___pep___other.html#aefc1128620f0e100169f1d8c10de4f85", null ],
+    [ "check_bonds", "d2/df3/classpsf__amc_1_1psf___pep___other.html#ab97f13b5ff01ceec58c7b06acc680ce0", null ],
+    [ "DoClone", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a0d64694906451cfa875bfaeba6dd8b3a", null ],
+    [ "get_AA_type", "d2/df3/classpsf__amc_1_1psf___pep___other.html#ad4d6e2d55bfa2f6de428f1ca6b3e942b", null ],
+    [ "get_atom", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a48e022c19a73b01df362e0f5bbb68f18", null ],
+    [ "get_AtomList", "d2/df3/classpsf__amc_1_1psf___pep___other.html#af6e82c16b2cd98fff3157bc7351833c3", null ],
+    [ "get_atomlist", "d2/df3/classpsf__amc_1_1psf___pep___other.html#af20c19161a4be5e00a3c08791e2a5f27", null ],
+    [ "get_bkb_atom", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a49f38265c1e3a2dae9470aeb7114240d", null ],
+    [ "get_bkb_nb_atoms", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a89349c34755a407d0304abbfbce1c89a", null ],
+    [ "get_bkbAtomList", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a7dce886b81463452b6370e804cf8d769", null ],
+    [ "get_connector", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a3f233f43c45d53d422b76a5328a32534", null ],
+    [ "get_first_atom", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a36c1d7d5da711f472052fe6897187bb4", null ],
+    [ "get_flagCterm", "d2/df3/classpsf__amc_1_1psf___pep___other.html#ab7f946471329a155bd096e3acf12c945", null ],
+    [ "get_nb_atoms", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a524b1e3c4233e9ba1cfef130ab1f6221", null ],
+    [ "get_sch_atom", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a926955b040c57264df665314c380f802", null ],
+    [ "get_sch_nb_atoms", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a5599412fb822671e1a47ea25a18b0c11", null ],
+    [ "get_schAtomList", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a6b0f1f9945716bb7a91b3b07c3e12a5a", null ],
+    [ "getFirstAtoms", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a679cd945407222e7138e00bac463ef36", null ],
+    [ "text_display", "d2/df3/classpsf__amc_1_1psf___pep___other.html#aeac077aba87007308688f6e4624b345a", null ],
+    [ "writePDBdata", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a679295d1a98ad8270f7c3404b3bb92e8", null ],
+    [ "writeXYZdata", "d2/df3/classpsf__amc_1_1psf___pep___other.html#ae780f9902774d4f01a20d3a2a3f9414d", null ],
+    [ "AtomList", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a5a64a65f0e1ff7ef2fea15f8cb5f1fdd", null ],
+    [ "fake_vector", "d2/df3/classpsf__amc_1_1psf___pep___other.html#a7748c8ee367a6356b3f190e489171293", null ]
+];

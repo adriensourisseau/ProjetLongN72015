@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d3/dca/classmma_1_1_local_path.html" title="An abstract parent class for all kinds of local paths between two molecular conformations: q_start an..." alt="" coords="95,105,212,135"/>
+<area shape="rect" id="node4" href="$d7/daa/classmma_1_1_interpolator.html" title="An abstract parent class for all classes performing interpolation using molecular conformations..." alt="" coords="5,6,131,37"/>
+<area shape="rect" id="node6" href="$db/d67/classmma_1_1_distance_computer.html" title="An abstract parent class for all classes which compute the distance between two molecular conformatio..." alt="" coords="155,6,325,37"/>
+</map>

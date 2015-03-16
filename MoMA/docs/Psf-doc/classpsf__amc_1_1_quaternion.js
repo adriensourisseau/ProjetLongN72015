@@ -1,0 +1,25 @@
+var classpsf__amc_1_1_quaternion =
+[
+    [ "Quaternion", "classpsf__amc_1_1_quaternion.html#a6e92546fbef7e89f8eae0a3cc34664df", null ],
+    [ "Quaternion", "classpsf__amc_1_1_quaternion.html#a6e4a0c92a5236e2b403fc9b0391e4046", null ],
+    [ "Quaternion", "classpsf__amc_1_1_quaternion.html#a9d0318eaa57b6138ce875a1b550219b6", null ],
+    [ "Quaternion", "classpsf__amc_1_1_quaternion.html#a7e756b589e37f21616d334688d3f8d1c", null ],
+    [ "Quaternion", "classpsf__amc_1_1_quaternion.html#acba66f394f7c523ec62ed10b9de5eb27", null ],
+    [ "align", "classpsf__amc_1_1_quaternion.html#a4d8c4d341dfe6d65f650704bfe99a993", null ],
+    [ "from_axis_angle", "classpsf__amc_1_1_quaternion.html#a6d65fa9c26005b0c9c9269b32118d8b1", null ],
+    [ "from_Euler", "classpsf__amc_1_1_quaternion.html#a0879e9ff800451fc896c524a21dfe97b", null ],
+    [ "from_homogeneous_matrix", "classpsf__amc_1_1_quaternion.html#a130b4e500890a86a6e57146344dbde90", null ],
+    [ "operator!=", "classpsf__amc_1_1_quaternion.html#a571aa4ee992de8fdc216d390a31069c9", null ],
+    [ "operator==", "classpsf__amc_1_1_quaternion.html#a87a6dda2525c209259a9d81712055362", null ],
+    [ "perturb", "classpsf__amc_1_1_quaternion.html#a87f63415921bca4eb509fcfff86f988e", null ],
+    [ "rotate", "classpsf__amc_1_1_quaternion.html#a5cd42fe5ebd797d62cfe087a96d89d27", null ],
+    [ "sampleUniformly", "classpsf__amc_1_1_quaternion.html#a1f5cee3b84ba33242b5f2d52d2caebe1", null ],
+    [ "sampleWithGaussian", "classpsf__amc_1_1_quaternion.html#a0dbff4516a92cd145989cd7e7bb0686d", null ],
+    [ "serialize", "classpsf__amc_1_1_quaternion.html#a832a98585fbc5adbc27fde7c08fa68b6", null ],
+    [ "slerp", "classpsf__amc_1_1_quaternion.html#af077878fd08009f2d46822d1117821ed", null ],
+    [ "to_axis_angle", "classpsf__amc_1_1_quaternion.html#a667961377af7503ca133a6bd0b77aba7", null ],
+    [ "to_Euler", "classpsf__amc_1_1_quaternion.html#a82ae88218e73c691d854097b89188e27", null ],
+    [ "to_homogeneous_matrix", "classpsf__amc_1_1_quaternion.html#a2e6f927bdf6a5bfe34804b1f3d9a5444", null ],
+    [ "boost::serialization::access", "classpsf__amc_1_1_quaternion.html#ac98d07dd8f7b70e16ccb9a01abf56b9c", null ],
+    [ "operator<<", "classpsf__amc_1_1_quaternion.html#a9d6837ef4f759aa5ecd417adcea2e908", null ]
+];

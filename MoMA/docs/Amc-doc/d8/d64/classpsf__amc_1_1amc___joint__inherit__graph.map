@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d0/d9b/classpsf__amc_1_1amc___dihedral.html" title="Dihedral joint : an angle, defined by a double and a dihedral built upon four atoms." alt="" coords="5,86,168,117"/>
+<area shape="rect" id="node5" href="$db/d02/classpsf__amc_1_1amc___freefly.html" title="Freefly joint : free tranformation from reference frame to current body." alt="" coords="192,86,344,117"/>
+</map>

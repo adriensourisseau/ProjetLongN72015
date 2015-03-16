@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$classpsf__amc_1_1psf___natural_a_a.html" title="Chemical description of a natural amino&#45;acid residue." alt="" coords="5,166,168,197"/>
+<area shape="rect" id="node7" href="$classpsf__amc_1_1psf___non_natural_a_a.html" title="Chemical description of a non&#45;natural amino&#45;acid residue." alt="" coords="192,166,379,197"/>
+<area shape="rect" id="node9" href="$classpsf__amc_1_1psf___pep___other.html" title="Chemical description of peptide components other than amino&#45;acid residues." alt="" coords="403,166,568,197"/>
+<area shape="rect" id="node2" href="$classpsf__amc_1_1psf___residue.html" title="Chemical description of a residue." alt="" coords="208,6,363,37"/>
+</map>

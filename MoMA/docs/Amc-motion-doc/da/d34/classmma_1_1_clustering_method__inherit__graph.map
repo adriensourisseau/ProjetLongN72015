@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d2e/classmma_1_1_a_h_clustering_average.html" title="Clusters the given distance matrix, using the Agglomerative Hierarchical Clustering (AHC) with the av..." alt="" coords="223,5,412,35"/>
+<area shape="rect" id="node5" href="$d3/d26/classmma_1_1_a_h_clustering_complete.html" title="Clusters the given distance matrix, using the Agglomerative Hierarchical Clustering (AHC) with the co..." alt="" coords="220,58,415,89"/>
+<area shape="rect" id="node7" href="$d8/d7a/classmma_1_1_a_h_clustering_single.html" title="Clusters the given distance matrix, using the Agglomerative Hierarchical Clustering (AHC) with the si..." alt="" coords="229,111,405,142"/>
+<area shape="rect" id="node9" href="$dc/dc9/classmma_1_1_p_a_m_clustering.html" title="Clusters the given distance matrix, using the Partitioning Around Medoids (PAM) algorithm." alt="" coords="244,165,391,195"/>
+</map>

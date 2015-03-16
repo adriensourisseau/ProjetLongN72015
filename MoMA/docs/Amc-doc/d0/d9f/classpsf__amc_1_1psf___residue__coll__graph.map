@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$dc/d7d/classpsf__amc_1_1psf___subchain.html" title="Amino&#45;Acid chain, or peptide chain, intermediate structure of a molecule." alt="" coords="116,305,273,335"/>
+<area shape="rect" id="node4" href="$d2/d15/classpsf__amc_1_1psf___molecule.html" title="Chemical level model of a generic molecule." alt="" coords="116,203,273,234"/>
+<area shape="rect" id="node6" href="$d0/dfe/classpsf__amc_1_1psf___multimolecule.html" title="Description of chemical environment, as a set of molecules, with their metadata." alt="" coords="101,105,288,135"/>
+<area shape="rect" id="node8" href="$db/dd9/classpsf__amc_1_1_py_m_o_l__interface.html" title="A class to interface Psf&#45;Amc with PyMOL Molecular Visualizer." alt="" coords="5,6,187,37"/>
+<area shape="rect" id="node10" href="$db/d19/classpsf__amc_1_1_v_m_d__interface.html" title="A class to interface Psf&#45;Amc with VMD Molecular Visualizer." alt="" coords="211,6,379,37"/>
+</map>

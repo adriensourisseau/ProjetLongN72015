@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d2/d2d/classpsf__amc_1_1amc___conf_manager.html" title="Conformation Manager belongs to an amc molecular object, like Subchain or Molecule ; its purpose is m..." alt="" coords="5,111,200,142"/>
+<area shape="rect" id="node3" href="$d6/d44/classpsf__amc_1_1amc___mainchain_conf_manager.html" title="Mainchain conformation manager : mainchain conformation is just a vector of JointData corresponding t..." alt="" coords="248,5,504,35"/>
+<area shape="rect" id="node5" href="$d7/de0/classpsf__amc_1_1amc___molecule_conf_manager.html" title="Molecule conformation manager deals with molecule structure : one freefly, and a set of subchains..." alt="" coords="251,58,501,89"/>
+<area shape="rect" id="node7" href="$df/d3d/classpsf__amc_1_1amc___multimol_conf_manager.html" title="Multimolecule conformation manager deals with multimolecule structure : a set of molecules." alt="" coords="255,111,497,142"/>
+<area shape="rect" id="node9" href="$de/dda/classpsf__amc_1_1amc___sidechain_conf_manager.html" title="Sidechain conformation manager : sidechain conformation is just a vector of JointData corresponding t..." alt="" coords="249,165,503,195"/>
+<area shape="rect" id="node11" href="$d2/df2/classpsf__amc_1_1amc___subchain_conf_manager.html" title="Subchain conformation manager deals with subchain structure : one freefly, one mainchain and sidechai..." alt="" coords="251,218,501,249"/>
+</map>

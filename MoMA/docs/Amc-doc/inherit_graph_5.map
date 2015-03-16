@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$dc/d32/classpsf__amc_1_1amc___joint_data.html" title="amc_JointData are basic components of conformations." alt="" coords="5,31,176,62"/>
+<area shape="rect" id="node3" href="$da/d8d/classpsf__amc_1_1amc___dihedral_data.html" title="amc_DihedralData : amc_JointData for Dihedral Main content : angle value" alt="" coords="225,5,417,35"/>
+<area shape="rect" id="node5" href="$d9/d2f/classpsf__amc_1_1amc___freefly_data.html" title="amc_FreeflyData : amc_JointData for Freefly Main content : Translation and Rotation of Freefly..." alt="" coords="231,58,412,89"/>
+</map>

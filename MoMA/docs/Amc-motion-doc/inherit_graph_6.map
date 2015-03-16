@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d4/da2/classmma_1_1_collision_checker.html" title="An abstract parent class for all collision checkers." alt="" coords="5,31,168,62"/>
+<area shape="rect" id="node3" href="$db/d11/classmma_1_1_grid_based_c_l_l_c_c.html" title="This collision checker is based on:" alt="" coords="220,5,388,35"/>
+<area shape="rect" id="node9" href="$d3/da4/classmma_1_1_simple_coll_checker.html" title="Simple brute&#45;force collision checker (check all pairs of atoms)." alt="" coords="216,58,392,89"/>
+<area shape="rect" id="node5" href="$db/dec/classmma_1_1_grid_based_incremental_c_c.html" title="This collision checker uses a grid of atoms that enables to test an atom against its neighbors only..." alt="" coords="441,5,655,35"/>
+<area shape="rect" id="node7" href="$d0/d29/classmma_1_1_lazy_cll_grid_c_c.html" title="This collision checker uses a grid of atoms that enables to test an atom against its neighbors only..." alt="" coords="705,5,855,35"/>
+</map>

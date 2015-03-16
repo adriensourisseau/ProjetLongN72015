@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d5/d0e/classmma_1_1_atoms_distance.html" title="Compute a distance between two molecular conformations, based on the Root Mean Squared Deviation of t..." alt="" coords="251,5,400,35"/>
+<area shape="rect" id="node5" href="$d5/d63/classmma_1_1_di_alanine_distance.html" title="Compute a distance between two molecular conformations of the alanine dipeptide, based on an Euclidea..." alt="" coords="240,58,411,89"/>
+<area shape="rect" id="node7" href="$dc/d52/classmma_1_1_dihedrals_distance.html" title="Compute a distance between two multi&#45;molecule conformations, based on the Root Mean Squared Deviation..." alt="" coords="240,111,411,142"/>
+<area shape="rect" id="node9" href="$df/de3/classmma_1_1_selected_joints_distance.html" title="Compute the distance between two molecular conformations, over a selected subset of their joints..." alt="" coords="224,165,427,195"/>
+<area shape="rect" id="node11" href="$da/db9/classmma_1_1_single_freefly_distance.html" title="Compute the distance between two molecular conformations based on the distance between two freeflies ..." alt="" coords="231,218,420,249"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$db/dec/classmma_1_1_grid_based_incremental_c_c.html" title="This collision checker uses a grid of atoms that enables to test an atom against its neighbors only..." alt="" coords="5,166,219,197"/>
+<area shape="rect" id="node4" href="$db/d11/classmma_1_1_grid_based_c_l_l_c_c.html" title="This collision checker is based on:" alt="" coords="28,86,196,117"/>
+<area shape="rect" id="node6" href="$d4/da2/classmma_1_1_collision_checker.html" title="An abstract parent class for all collision checkers." alt="" coords="31,6,193,37"/>
+</map>

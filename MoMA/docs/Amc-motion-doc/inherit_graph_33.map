@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d3/dfb/classmma_1_1_sampler.html" title="A parent abstract class for all kinds of samplers, i.e." alt="" coords="7,58,116,89"/>
+<area shape="rect" id="node3" href="$d6/dce/classmma_1_1_particles_sampler.html" title="Sampler designed to work on tripeptides without touching at individual dihedral angles." alt="" coords="176,5,336,35"/>
+<area shape="rect" id="node5" href="$d3/db5/classmma_1_1_simple_loop_sampler.html" title="mma::SimpleLoopSampler" alt="" coords="165,58,347,89"/>
+<area shape="rect" id="node7" href="$d5/d10/classmma_1_1_uniform_sampler.html" title="A sampler generating molecular conformations using a uniform distribution for all DOFs..." alt="" coords="179,111,333,142"/>
+</map>

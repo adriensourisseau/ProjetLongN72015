@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$d1/d66/classmma_1_1_approximate_amber_f_f.html" title="Approximate version of the Incremental Amber Force Field." alt="" coords="5,246,195,277"/>
+<area shape="rect" id="node2" href="$d5/dea/classmma_1_1_amber_force_field.html" title="Compute the energy of a molecular system using the AMBER force field." alt="" coords="19,86,181,117"/>
+<area shape="rect" id="node4" href="$d5/ddc/classmma_1_1_energy_computer.html" title="An abstract class for computing the energy of a molecular system." alt="" coords="21,6,179,37"/>
+</map>

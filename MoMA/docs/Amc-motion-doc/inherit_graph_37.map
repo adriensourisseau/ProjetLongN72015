@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$db/de8/classmma_1_1_trajectory.html" title="Abstract parent class for all trajectory classes." alt="" coords="7,31,127,62"/>
+<area shape="rect" id="node3" href="$d1/d4f/classmma_1_1_regular_trajectory.html" title="A Regular Trajectory is a concatenation of Regular Local Paths." alt="" coords="176,5,344,35"/>
+<area shape="rect" id="node5" href="$dd/d47/classmma_1_1_scaled_trajectory.html" title="A Scaled Trajectory is a concatenation of Scaled Local Paths." alt="" coords="179,58,341,89"/>
+</map>

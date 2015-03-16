@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d5/d3e/classpsf__amc_1_1psf___atom.html" title="Chemical description of an atom." alt="" coords="1632,141,1765,171"/>
+<area shape="rect" id="node4" href="$d2/d15/classpsf__amc_1_1psf___molecule.html" title="Chemical level model of a generic molecule." alt="" coords="580,118,737,149"/>
+<area shape="rect" id="node14" href="$dc/d7d/classpsf__amc_1_1psf___subchain.html" title="Amino&#45;Acid chain, or peptide chain, intermediate structure of a molecule." alt="" coords="853,66,1011,97"/>
+<area shape="rect" id="node48" href="$db/d3a/classpsf__amc_1_1amc___molecule.html" title="Mechanical model of molecule." alt="" coords="848,689,1016,719"/>
+<area shape="rect" id="node6" href="$d0/dfe/classpsf__amc_1_1psf___multimolecule.html" title="Description of chemical environment, as a set of molecules, with their metadata." alt="" coords="291,118,477,149"/>
+<area shape="rect" id="node8" href="$db/dd9/classpsf__amc_1_1_py_m_o_l__interface.html" title="A class to interface Psf&#45;Amc with PyMOL Molecular Visualizer." alt="" coords="7,91,188,122"/>
+<area shape="rect" id="node10" href="$db/d19/classpsf__amc_1_1_v_m_d__interface.html" title="A class to interface Psf&#45;Amc with VMD Molecular Visualizer." alt="" coords="13,145,181,175"/>
+<area shape="rect" id="node12" href="$dc/dbf/classpsf__amc_1_1psf___residue.html" title="Chemical description of a residue." alt="" coords="1265,66,1420,97"/>
+<area shape="rect" id="node19" href="$d3/de7/classpsf__amc_1_1_p3_d.html" title="Point in a 3D space." alt="" coords="1289,185,1396,215"/>
+<area shape="rect" id="node21" href="$d2/d99/classpsf__amc_1_1amc___rigid.html" title="Group of atoms rigidly linked." alt="" coords="1627,633,1771,663"/>
+<area shape="rect" id="node23" href="$de/d26/classpsf__amc_1_1amc___rigid_tree.html" title="A meta&#45;structure to describe rigid trees and subtrees." alt="" coords="1999,651,2172,682"/>
+<area shape="rect" id="node70" href="$de/dec/classpsf__amc_1_1amc___sidechain.html" title="Mechanical description of sidechain." alt="" coords="2328,709,2501,739"/>
+<area shape="rect" id="node27" href="$d6/d69/classpsf__amc_1_1amc___joint.html" title="Generic joint, potential or actual move of a body from its location in the model to a new location..." alt="" coords="1272,549,1413,579"/>
+<area shape="rect" id="node41" href="$db/d02/classpsf__amc_1_1amc___freefly.html" title="Freefly joint : free tranformation from reference frame to current body." alt="" coords="1623,406,1775,437"/>
+<area shape="rect" id="node29" href="$df/da0/classpsf__amc_1_1amc___subchain.html" title="Mechanical description of amino&#45;acid subchain." alt="" coords="1259,827,1427,858"/>
+<area shape="rect" id="node31" href="$d4/d91/classpsf__amc_1_1amc___mainchain.html" title="Internal backbone of a subchain, NOT of a residue." alt="" coords="1612,966,1785,997"/>
+<area shape="rect" id="node61" href="$d2/df2/classpsf__amc_1_1amc___subchain_conf_manager.html" title="Subchain conformation manager deals with subchain structure : one freefly, one mainchain and sidechai..." alt="" coords="1573,858,1824,889"/>
+<area shape="rect" id="node33" href="$d6/d44/classpsf__amc_1_1amc___mainchain_conf_manager.html" title="Mainchain conformation manager : mainchain conformation is just a vector of JointData corresponding t..." alt="" coords="1957,1015,2213,1046"/>
+<area shape="rect" id="node35" href="$d2/d2d/classpsf__amc_1_1amc___conf_manager.html" title="Conformation Manager belongs to an amc molecular object, like Subchain or Molecule ; its purpose is m..." alt="" coords="1245,1067,1440,1098"/>
+<area shape="rect" id="node51" href="$d7/de0/classpsf__amc_1_1amc___molecule_conf_manager.html" title="Molecule conformation manager deals with molecule structure : one freefly, and a set of subchains..." alt="" coords="1573,1134,1824,1165"/>
+<area shape="rect" id="node72" href="$de/dda/classpsf__amc_1_1amc___sidechain_conf_manager.html" title="Sidechain conformation manager : sidechain conformation is just a vector of JointData corresponding t..." alt="" coords="2636,758,2889,789"/>
+<area shape="rect" id="node39" href="$da/d81/classpsf__amc_1_1_t3_d.html" title="Transformation in a 3D space." alt="" coords="605,861,712,891"/>
+<area shape="rect" id="node67" href="$d4/d4e/classpsf__amc_1_1amc___rel__frames.html" title="Set of reference frames providing a full description of mechanical relations between a given rigid an..." alt="" coords="1040,886,1221,917"/>
+<area shape="rect" id="node44" href="$dd/d49/classpsf__amc_1_1_v3_d.html" title="Vector in a 3D space." alt="" coords="1289,315,1396,346"/>
+<area shape="rect" id="node46" href="$d9/d4c/classpsf__amc_1_1_quaternion.html" title="Quaternion: q = w + x*i + y*j + z*k." alt="" coords="1271,369,1415,399"/>
+</map>

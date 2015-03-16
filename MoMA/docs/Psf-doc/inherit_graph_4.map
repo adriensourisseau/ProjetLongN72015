@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classpsf__amc_1_1psf___residue.html" title="Chemical description of a residue." alt="" coords="5,31,160,62"/>
+<area shape="rect" id="node3" href="$classpsf__amc_1_1psf___nucleic_acid.html" title="Chemical description of a nucleic acid Each of them contains a phosphate, a sugar and a base..." alt="" coords="224,5,397,35"/>
+<area shape="rect" id="node5" href="$classpsf__amc_1_1psf___peptide___element.html" title="Chemical description of an amino&#45;acid residue, either natural or non natural." alt="" coords="209,58,412,89"/>
+<area shape="rect" id="node7" href="$classpsf__amc_1_1psf___natural_a_a.html" title="Chemical description of a natural amino&#45;acid residue." alt="" coords="475,5,637,35"/>
+<area shape="rect" id="node9" href="$classpsf__amc_1_1psf___non_natural_a_a.html" title="Chemical description of a non&#45;natural amino&#45;acid residue." alt="" coords="463,58,649,89"/>
+<area shape="rect" id="node11" href="$classpsf__amc_1_1psf___pep___other.html" title="Chemical description of peptide components other than amino&#45;acid residues." alt="" coords="473,111,639,142"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dd/d81/classpsf__amc_1_1psf___d_n_a.html" title="Chemical model of DNA, as in pdb file." alt="" coords="224,5,355,35"/>
+<area shape="rect" id="node5" href="$dd/dc8/classpsf__amc_1_1psf___ligand.html" title="Defines basic, rather small, molecules (ligand)." alt="" coords="217,58,361,89"/>
+<area shape="rect" id="node7" href="$d2/d9a/classpsf__amc_1_1psf___peptide.html" title="Chemical model of peptide, as in pdb file." alt="" coords="215,111,364,142"/>
+<area shape="rect" id="node9" href="$d2/d50/classpsf__amc_1_1psf___polymer.html" title="Chemical model of polymer, as in pdb file." alt="" coords="213,165,365,195"/>
+<area shape="rect" id="node11" href="$d4/d87/classpsf__amc_1_1psf___protein.html" title="Chemical model of protein, as in pdb file." alt="" coords="216,218,363,249"/>
+</map>

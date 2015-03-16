@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dd/ded/classmma_1_1_amber_f_f.html" title="Compute the energy of a molecular system using the AMBER force field." alt="" coords="5,86,120,117"/>
+<area shape="rect" id="node5" href="$d5/dea/classmma_1_1_amber_force_field.html" title="Compute the energy of a molecular system using the AMBER force field." alt="" coords="144,86,307,117"/>
+<area shape="rect" id="node11" href="$dd/d04/classmma_1_1_amber_wrapper.html" title="Compute the energy of a molecular system using the AMBER package." alt="" coords="331,86,480,117"/>
+<area shape="rect" id="node13" href="$de/da0/classmma_1_1_pele_o_p_l_s.html" title="Compute the energy of a molecular system using the OPLS equations implemented in PELE." alt="" coords="504,86,624,117"/>
+<area shape="rect" id="node7" href="$dc/d48/classmma_1_1_incremental_amber_f_f.html" title="Incremental version of the Amber Force Field." alt="" coords="133,166,317,197"/>
+<area shape="rect" id="node9" href="$d1/d66/classmma_1_1_approximate_amber_f_f.html" title="Approximate version of the Incremental Amber Force Field." alt="" coords="131,246,320,277"/>
+</map>

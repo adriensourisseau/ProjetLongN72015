@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d6/d69/classpsf__amc_1_1amc___joint.html" title="Generic joint, potential or actual move of a body from its location in the model to a new location..." alt="" coords="5,31,147,62"/>
+<area shape="rect" id="node3" href="$d0/d9b/classpsf__amc_1_1amc___dihedral.html" title="Dihedral joint : an angle, defined by a double and a dihedral built upon four atoms." alt="" coords="196,5,359,35"/>
+<area shape="rect" id="node5" href="$db/d02/classpsf__amc_1_1amc___freefly.html" title="Freefly joint : free tranformation from reference frame to current body." alt="" coords="201,58,353,89"/>
+</map>

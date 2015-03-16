@@ -1,0 +1,25 @@
+var classpsf__amc_1_1psf___non_natural_a_a =
+[
+    [ "psf_NonNaturalAA", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#aa299c465396b1ab555420b2bd410340a", null ],
+    [ "psf_NonNaturalAA", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a774eeca7421917635fb287d34403cd30", null ],
+    [ "~psf_NonNaturalAA", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#af6f9ea14204c41e75f64b48c1c162b00", null ],
+    [ "check_bonds", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a0d0f639e8e01c72f8f5280359c0ce20c", null ],
+    [ "DoClone", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a4f24d75ad341938f493ffa3415bedcdd", null ],
+    [ "get_AA_type", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a22bf628b3c9f208c7b81f6b9d0922e0a", null ],
+    [ "get_atom", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#ac880bbe51c1b6f13816f4185e4acfec2", null ],
+    [ "get_atomlist", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#ab13d5e1ca5b45a6acf3e52e7924d7d7b", null ],
+    [ "get_bkb_atom", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a5ae79efdbe2294bedb8f7fef612841da", null ],
+    [ "get_bkb_nb_atoms", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a04395e47514b4b50ad8feb734afd281a", null ],
+    [ "get_bkbAtomList", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a64cd90cee864c516a2836b4ff86343e2", null ],
+    [ "get_connector", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#ab8531604c2367cbd5f8880048f68e07c", null ],
+    [ "get_flagCterm", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a438e551d3296496226eb41697658bc9c", null ],
+    [ "get_sch_atom", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#adedb59d4a880c4f29b225bfe979ff828", null ],
+    [ "get_sch_nb_atoms", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a9cd4daf02019802aabf3038f9177248f", null ],
+    [ "get_schAtomList", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a6c66a96a284c8cf1b4394ba003f52f3e", null ],
+    [ "text_display", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a7fcc0cc8d1639686d73a724e33369d5b", null ],
+    [ "writePDBdata", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a2b1dbadff2addc9392f17d045a019f24", null ],
+    [ "writeXYZdata", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#afc3f56ba7db4eb965772e672bc16dd2e", null ],
+    [ "bkbAtomList", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#acee5e796b5f35a4c0e01411651942101", null ],
+    [ "flagCterm", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a857c576dac75f79ad8068d841a8c5faf", null ],
+    [ "schAtomList", "da/da3/classpsf__amc_1_1psf___non_natural_a_a.html#a23a899fb6e4519512c078e1eda1ba882", null ]
+];
